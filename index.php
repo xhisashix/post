@@ -23,7 +23,7 @@
         <option value="会社員">会社員</option>
         <option value="専業主婦">専業主婦</option>
         <option value="学生">学生</option>
-        <option value="その他">その他</option>
+        <option value="その他">当てはまらない</option>
       </select>
       <div class="radio">
         <label for=""><input type="radio" name="gender">男性</label>
